@@ -1,0 +1,6 @@
+framework module Pods_Kitapligim {
+  umbrella header "Pods-Kitapligim-umbrella.h"
+
+  export *
+  module * { export * }
+}
